@@ -71,8 +71,11 @@ Support for larger file embedding
 Author
 
 Varsha Natashekara
+
 MSc Sensor Systems Technology
+
 Hochschule Karlsruhe, Germany
+
 LinkedIn: www.linkedin.com/in/varsha-n-b42593246
 
 License
